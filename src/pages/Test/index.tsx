@@ -1,7 +1,7 @@
-import Calculator from './compoents/Calculator';
+import Grid from './compoents/Test';
 
 const index = () => {
-  return <Calculator />;
+  return <Grid />;
 };
 
 export default index;

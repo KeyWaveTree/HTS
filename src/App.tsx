@@ -1,8 +1,8 @@
 import './App.css';
-import Test from './pages/Test';
+import Order from './pages/Trade';
 
 const App = () => {
-  return <Test />;
+  return <Order />;
 };
 
 export default App;
